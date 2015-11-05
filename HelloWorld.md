@@ -1,5 +1,3 @@
 ## This is a markdown file.
 
-*Factum
-*non
-*Genitum
+*Factum *non *Genitum
